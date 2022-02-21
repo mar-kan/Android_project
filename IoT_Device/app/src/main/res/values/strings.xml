@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application Lotr</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="Sensor_type">
+        <item>Select Sensor</item>
+        <item>Smoke Sensor</item>
+        <item>Gas Sensor</item>
+        <item>Temp Sensor</item>
+        <item>Ultraviolet Sensor</item>
+    </string-array>
+</resources>
